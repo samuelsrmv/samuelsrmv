@@ -1,4 +1,4 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 <h2 align="center">I'm Samuel and I'm very happy to welcome you to my GitHub profile!  </h2>
 
 
