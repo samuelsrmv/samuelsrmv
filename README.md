@@ -1,5 +1,5 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
-<h1 align="center">I'm Samuel Martínez</h1>
+<h1 align="center">I'm Samuel and I'm very happy to welcome you to my GitHub profile!  </h1>
 
 
 <h3 align="left">Languages and Tools:</h3>
